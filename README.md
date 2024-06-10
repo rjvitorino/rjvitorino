@@ -44,9 +44,11 @@ With a background in software development, my expertise lies in product manageme
 
 Hoping to pump up these stats and share more contributions with Python, my favourite language :)
 
-![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjvitorino&show_icons=true)
+![rjvitorino's Stats](https://github-readme-stats.vercel.app/api?username=rjvitorino&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjvitorino&layout=compact)
+![rjvitorino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rjvitorino&theme=vue&hide_border=true)
+
+![rjvitorino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjvitorino&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Get in Touch
 
