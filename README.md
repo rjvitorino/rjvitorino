@@ -4,7 +4,8 @@
 
 ## About Me
 
-I am a **Senior Product Manager** with over eight years of experience in overseeing the creation and deployment of innovative software solutions. My expertise lies in product management, user engagement, market analysis, and leading multidisciplinary teams to drive product innovation and secure funding.
+I am a Senior Product Manager with over eight years of experience overseeing the creation and deployment of innovative software solutions. 
+With a background in software development, my expertise lies in product management, user engagement, market analysis, and leading multidisciplinary teams to drive product innovation and secure funding.
 
 - 📍 **Location:** Coimbra, Portugal
 - 📧 **Email:** hello [at] ricardovitorino [dot] com
@@ -22,8 +23,8 @@ I am a **Senior Product Manager** with over eight years of experience in oversee
 ## 🌟 Highlights
 
 - **Head of Technical Communication** at Ubiwhere:
-  - Driving industry engagement, positioning Ubiwhere as a leader through events, keynotes and panels.
-  - Orchestratubg workshops and seminars, fostering strategic partnerships that increase prospect customers%.
+  - Driving industry engagement and positioning Ubiwhere as a leader through events, keynotes, and panels.
+  - Orchestrating workshops and seminars, fostering strategic partnerships that increase prospective customers.
 
 - **Product Manager** at Ubiwhere:
   - Directed the development and launch of the [Urban Platform](https://urbanplatform.city), deployed in 12+ cities, winning three international awards.
@@ -36,8 +37,8 @@ I am a **Senior Product Manager** with over eight years of experience in oversee
 ## 👩‍💻 Volunteer Work
 
 - **The Impostor PM:** Organising events in Coimbra and managing Coimbra's Club Community of Product Managers.
-- **Apps for Good Expert:** Guiding young developers in business models, ideation, pitching, technical and data feasibility.
-- **World Data League Mentor:** Guiding teams in solving real-world problems with expertise in data analysis and visualization.
+- **Apps for Good Expert:** Guiding young developers in business models, creativity, pitching, technical and data feasibility.
+- **World Data League Mentor:** Guiding teams in solving real-world problems with data analysis and visualisation expertise.
 
 ## 📈 GitHub Stats
 
@@ -49,26 +50,13 @@ Hoping to pump up these stats and share more contributions with Python, my favou
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me through [email](mailto:hello@ricardovitorino.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rjvitorino/).
+Feel free to contact me through [email](mailto:hello@ricardovitorino.com) or via [LinkedIn](https://www.linkedin.com/in/rjvitorino/).
 
 ---
 
 **Ricardo Vitorino**  
-_Senior Product Manager_  
+_Senior Product Manager and Product Thinker_  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/rjvitorino/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/rjvitorino) [![Website](https://img.shields.io/badge/Website-gray?style=flat&logo=google-chrome&labelColor=gray)](https://www.ricardovitorino.com) [![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black)](https://medium.com/@ricardovitorino)
 
 
-<!--
-**rjvitorino/rjvitorino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
