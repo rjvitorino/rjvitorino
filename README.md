@@ -20,6 +20,13 @@ With a background in software development, my expertise lies in product manageme
 - **Market Analysis:** Conducting B2B (Business-to-Business) and B2G (Business-to-Government) market research and user behaviour analysis for product development and global awards.
 - **Project Management:** Leading multidisciplinary teams to foster collaboration and strategic growth.
 
+## 🤝 Open-source contributions
+
+- Created and maintains [GistMaster, a catalogue for Github Gists](https://github.com/rjvitorino/gists-catalogue)
+- Actively contributing to [pydanny/refry](https://github.com/pydanny/refry)
+- Created [@AIOTIEU's online catalogues](https://github.com/AIOTIEU) using Github pages
+- Contributed to the [SmartDataModels initiative](https://github.com/smart-data-models) (via the work profile [@uw-rvitorino](https://github.com/uw-rvitorino))
+
 ## 🌟 Highlights
 
 - **Head of Technical Communication** at Ubiwhere:
@@ -42,7 +49,7 @@ With a background in software development, my expertise lies in product manageme
 
 ## 📈 GitHub Stats
 
-Hoping to pump up these stats and share more contributions with Python, my favourite language :)
+Hoping to pump up these stats and share more contributions with Python 🐍, my favourite programming language 😅
 
 ![rjvitorino's Stats](https://github-readme-stats.vercel.app/api?username=rjvitorino&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
