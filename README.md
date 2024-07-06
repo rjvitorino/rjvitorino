@@ -49,7 +49,10 @@ With a background in software development, my expertise lies in product manageme
 
 ## 📈 GitHub Stats
 
-Hoping to pump up these stats and share more contributions with Python 🐍, my favourite programming language 😅
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+Hoping to pump up these stats and share more contributions with **Python** 🐍, my favourite programming language 😅
 
 ![rjvitorino's Stats](https://github-readme-stats.vercel.app/api?username=rjvitorino&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
