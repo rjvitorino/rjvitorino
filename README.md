@@ -7,42 +7,30 @@
 I am a Senior Product Manager with over eight years of experience overseeing the creation and deployment of innovative software solutions. 
 With a background in software development, my expertise lies in product management, user engagement, market analysis, and leading multidisciplinary teams to drive product innovation and secure funding.
 
-- 📍 **Location:** Coimbra, Portugal
-- 📧 **Email:** hello [at] ricardovitorino [dot] com
-- 🔗 **Website:** [www.ricardovitorino.com](https://www.ricardovitorino.com)
-- 💼 **LinkedIn:** [Ricardo Vitorino](https://www.linkedin.com/in/rjvitorino/)
-- 📝 **Medium:** [@ricardovitorino](https://medium.com/@ricardovitorino)
-
-## 🛠 Skills
-
-- **Product Management:** End-to-end product lifecycle, from discovery to market, improving features based on business goals and customer feedback.
-- **User Engagement:** Co-creating user-centric designs to enhance engagement and efficiency.
-- **Market Analysis:** Conducting B2B (Business-to-Business) and B2G (Business-to-Government) market research and user behaviour analysis for product development and global awards.
-- **Project Management:** Leading multidisciplinary teams to foster collaboration and strategic growth.
-
 ## 🤝 Open-source contributions
 
-- Created and maintains [GistMaster, a catalogue for Github Gists](https://github.com/rjvitorino/gists-catalogue)
-- Actively contributing to [pydanny/refry](https://github.com/pydanny/refry)
-- Created [@AIOTIEU's online catalogues](https://github.com/AIOTIEU) using Github pages
-- Contributed to the [SmartDataModels initiative](https://github.com/smart-data-models) (via the work profile [@uw-rvitorino](https://github.com/uw-rvitorino))
+- I created and maintain [GistMaster, a catalogue for Github Gists](https://github.com/rjvitorino/gists-catalogue)
+- I am actively contributing to [pydanny/refry](https://github.com/pydanny/refry)
+- I created [@AIOTIEU's online catalogues](https://github.com/AIOTIEU) using Github pages
+- I contribute to the [SmartDataModels initiative](https://github.com/smart-data-models) (via my other profile [@uw-rvitorino](https://github.com/uw-rvitorino))
 
 ## 🌟 Highlights
 
-- **Head of Technical Communication** at Ubiwhere:
+- **Head of Technical Communication** at @Ubiwhere:
   - Driving industry engagement and positioning Ubiwhere as a leader through events, keynotes, and panels.
   - Orchestrating workshops and seminars, fostering strategic partnerships that increase prospective customers.
 
-- **Product Manager** at Ubiwhere:
+- **Product Manager** at @Ubiwhere:
   - Directed the development and launch of the [Urban Platform](https://urbanplatform.city), deployed in 12+ cities, winning three international awards.
   - Secured 20+ grants, contributing to significant community impact through smart city initiatives.
 
-- **Software Developer** at Ubiwhere and Instituto Pedro Nunes:
-  - Built smart city products using technologies like Django, PostgreSQL, RabbitMQ, Celery, CKAN and FIWARE.
+- **Software Developer** at @Ubiwhere and Instituto Pedro Nunes:
+  - Built smart mobility products using technologies like Django, PostgreSQL, RabbitMQ, Celery, CKAN and FIWARE.
   - Developed a mobile app with Augmented Reality and multimodal route planner for transit agencies.
 
 ## 👩‍💻 Volunteer Work
 
+- **Habitação Transparente (Data Science for Social Good):** Leading the communication strategy for an open data project about housing.
 - **The Impostor PM:** Organising events in Coimbra and managing Coimbra's Club Community of Product Managers.
 - **Apps for Good Expert:** Guiding young developers in business models, creativity, pitching, technical and data feasibility.
 - **World Data League Mentor:** Guiding teams in solving real-world problems with data analysis and visualisation expertise.
