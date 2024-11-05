@@ -16,19 +16,19 @@ With a background in software development, my expertise lies in product manageme
 
 ## 🌟 Highlights
 
-- **Product Manager** at @Untile:
+- **Product Manager** at [@Untile](https://github.com/untile):
   - Leading end-to-end product lifecycle, aligning product strategies with market needs and business goals through cross-functional collaboration.
   - Manage client relationships and gather market feedback to prioritise features, drive product innovation, and ensure competitive positioning.
 
-- **Head of Technical Communication** at @Ubiwhere:
+- **Head of Technical Communication** at [@Ubiwhere](https://github.com/ubiwhere):
   - Driving industry engagement and positioning Ubiwhere as a leader through events, keynotes, and panels.
   - Orchestrating workshops and seminars, fostering strategic partnerships that increase prospective customers.
 
-- **Product Manager** at @Ubiwhere:
+- **Product Manager** at [@Ubiwhere](https://github.com/ubiwhere):
   - Directed the development and launch of the [Urban Platform](https://urbanplatform.city), deployed in 12+ cities, winning three international awards.
   - Secured 20+ grants, contributing to significant community impact through smart city initiatives.
 
-- **Software Developer** at @Ubiwhere and Instituto Pedro Nunes:
+- **Software Developer** at [@Ubiwhere](https://github.com/ubiwhere) and [Instituto Pedro Nunes](https://github.com/OneStopTransport):
   - Built smart mobility products using technologies like Django, PostgreSQL, RabbitMQ, Celery, CKAN and FIWARE.
   - Developed a mobile app with Augmented Reality and multimodal route planner for transit agencies.
 
