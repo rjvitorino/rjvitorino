@@ -4,17 +4,21 @@
 
 ## About Me
 
-I am a Senior Product Manager with over eight years of experience overseeing the creation and deployment of innovative software solutions. 
+I am a Senior Product Manager with over eight years of experience overseeing creating and deploying innovative software solutions. 
 With a background in software development, my expertise lies in product management, user engagement, market analysis, and leading multidisciplinary teams to drive product innovation and secure funding.
 
 ## 🤝 Open-source contributions
 
-- I created and maintain [GistMaster, a catalogue for Github Gists](https://github.com/rjvitorino/gists-catalogue)
+- I created and am maintaining [GistMaster, a catalogue for Github Gists](https://github.com/rjvitorino/gists-catalogue)
 - I am actively contributing to [pydanny/refry](https://github.com/pydanny/refry)
 - I created [@AIOTIEU's online catalogues](https://github.com/AIOTIEU) using Github pages
-- I contribute to the [SmartDataModels initiative](https://github.com/smart-data-models) (via my other profile [@uw-rvitorino](https://github.com/uw-rvitorino))
+- I contributed to the [SmartDataModels initiative](https://github.com/smart-data-models) (via my other profile [@uw-rvitorino](https://github.com/uw-rvitorino))
 
 ## 🌟 Highlights
+
+- **Product Manager** at @Untile:
+  - Leading end-to-end product lifecycle, aligning product strategies with market needs and business goals through cross-functional collaboration.
+  - Manage client relationships and gather market feedback to prioritise features, drive product innovation, and ensure competitive positioning.
 
 - **Head of Technical Communication** at @Ubiwhere:
   - Driving industry engagement and positioning Ubiwhere as a leader through events, keynotes, and panels.
