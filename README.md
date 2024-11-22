@@ -32,12 +32,12 @@ With a background in software development, my expertise lies in product manageme
   - Built smart mobility products using technologies like Django, PostgreSQL, RabbitMQ, Celery, CKAN and FIWARE.
   - Developed a mobile app with Augmented Reality and multimodal route planner for transit agencies.
 
-## 👩‍💻 Volunteer Work
+## 👨🏻‍💻 Volunteer Work
 
-- **Habitação Transparente (Data Science for Social Good):** Leading the communication strategy for an open data project about housing.
-- **The Impostor PM:** Organising events in Coimbra and managing Coimbra's Club Community of Product Managers.
+- **Habitação Transparente (Data Science for Social Good):** Leading the communication strategy for an open data project to improve housing in Portugal.
+- **The Impostor PM:** I manage the community of Product Managers in Coimbra and organise bi-monthly meetups to share experiences between PMs.
 - **Apps for Good Expert:** Guiding young developers in business models, creativity, pitching, technical and data feasibility.
-- **World Data League Mentor:** Guiding teams in solving real-world problems with data analysis and visualisation expertise.
+- **Mentor in World Data League and Hackacity:** Guiding teams in solving real-world problems with data analysis and visualisation expertise.
 
 ## 📈 GitHub Stats
 
